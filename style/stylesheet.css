@@ -13,7 +13,7 @@
   grid-column: 1 / 6;
   background-color: #2F4F4F;
   text-align: center;
-  text-color: #FFFFFF;
+  color: #F5F5F5;
 }
 
 .sidebar { 
@@ -41,7 +41,7 @@
   grid-column: 1 / 6;
   background-color: #2F4F4F;
   text-align: center;
-  text-color: #FFFFFF;
+  color: #F5F5F5;
 }
 
 
